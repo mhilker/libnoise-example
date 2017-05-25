@@ -27,9 +27,17 @@ make
 
 ## Result
 
-![Surface Texture](./planet-123-surface.bmp)
-![Normal Map](./planet-123-normal.bmp)
-![Specular Map](./planet-123-specular.bmp)
+### The Surface Texture
+
+![Surface Texture](./resources/planet-123-surface.bmp)
+
+### The Normal Map
+
+![Normal Map](./resources/planet-123-normal.bmp)
+
+### The Specular Map
+
+![Specular Map](./resources/planet-123-specular.bmp)
 
 ## License
 
